@@ -1,2 +1,4 @@
 # VoxelGame
-Yer another minecraft clone
+Yet another minecraft clone
+
+![screenshot](image.png)
